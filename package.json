@@ -1,5 +1,5 @@
 {
-  "name": "myevatime",
+  "name": "worldtime2024",
   "version": "1.1.1",
   "description": "my time my life",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cutefish1111/mytime.git"
+    "url": "git+https://github.com/jofrasonyoung2023/worldtime.git"
   },
   "keywords": [
     "datetime"
   ],
-  "author": "cute fish <wenpingwang2017@gmail.com> (https://github.com/cutefish1111/mytime)",
+  "author": "cute fish <wenpingwang2017@gmail.com> (https://github.com/jofrasonyoung2023/worldtime)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cutefish1111/mytime/issues"
+    "url": "https://github.com/jofrasonyoung2023/worldtime/issues"
   },
-  "homepage": "https://github.com/cutefish1111/mytime#readme",
+  "homepage": "https://github.com/jofrasonyoung2023/worldtime#readme",
   "dependencies": {
     "world-time": "^1.0.0"
   },
